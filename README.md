@@ -1,4 +1,4 @@
 Processing-Sphero-Lib
 =====================
 
-A Processing interface for Sphero
+A Sphero interface for Processing
